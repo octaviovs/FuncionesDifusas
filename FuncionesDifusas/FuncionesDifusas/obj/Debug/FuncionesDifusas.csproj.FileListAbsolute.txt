@@ -1,0 +1,9 @@
+C:\Users\octav\Desktop\FuncionesDifusas\FuncionesDifusas\bin\Debug\FuncionesDifusas.exe.config
+C:\Users\octav\Desktop\FuncionesDifusas\FuncionesDifusas\bin\Debug\FuncionesDifusas.exe
+C:\Users\octav\Desktop\FuncionesDifusas\FuncionesDifusas\bin\Debug\FuncionesDifusas.pdb
+C:\Users\octav\Desktop\FuncionesDifusas\FuncionesDifusas\obj\Debug\FuncionesDifusas.csprojResolveAssemblyReference.cache
+C:\Users\octav\Desktop\FuncionesDifusas\FuncionesDifusas\obj\Debug\FuncionesDifusas.Form1.resources
+C:\Users\octav\Desktop\FuncionesDifusas\FuncionesDifusas\obj\Debug\FuncionesDifusas.Properties.Resources.resources
+C:\Users\octav\Desktop\FuncionesDifusas\FuncionesDifusas\obj\Debug\FuncionesDifusas.csproj.GenerateResource.Cache
+C:\Users\octav\Desktop\FuncionesDifusas\FuncionesDifusas\obj\Debug\FuncionesDifusas.exe
+C:\Users\octav\Desktop\FuncionesDifusas\FuncionesDifusas\obj\Debug\FuncionesDifusas.pdb
